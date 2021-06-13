@@ -1,0 +1,3 @@
+# PASGENAP10RPL220
+Ada beberapa baris code yang saya jadikan komentar karena saya masih mempelajari jenis code tersebut...
+ada juga beberapa baris code komentar yang tidak lengkap... mungkin sisa sisa code yang saya uji coba... dikarenakan banyaknya sisa sisa tersebut ada beberapa yang terlewat saya hapus
